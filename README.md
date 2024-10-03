@@ -1,5 +1,7 @@
 # rust-snake-game
- A simple Snake game written in Rust
+ A simple Snake game written in Rust using:
+- `rand` for randomisation
+- `piston_window` for the 2d game window
 
 ## Build the project
 ```
