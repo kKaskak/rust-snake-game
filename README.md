@@ -8,7 +8,7 @@
 cargo build
 ```
 
-## Start the game
+## Start the game 
 ```
 cargo run
 ```
